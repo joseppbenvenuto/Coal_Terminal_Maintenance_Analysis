@@ -48,16 +48,8 @@ If anyone of the reclaimers average, over a seven-hour rolling window, 10% or hi
 1) MySQL
 2) Microsoft Excel
 
-## Order of Analysis
-
-1) **Data_Preprocessing_EDA.ipynb**
-2) **S&P_500_Index_Analysis.ipynb**
-
 ## Directory Files
 
-1) **Data_Preprocessing_EDA.ipynb** - Data preprocessing and exploration.
-2) **S&P_500_Index_Analysis.ipynb** - A/B testing analysis of the difference in the S&P 500 Index mean closing prices between decades.
-3) **St.Louis_Fed_Bank_API.ipynb** - St.Louis Fed Bank API to gather real annual U.S GDP data.
-4) **Stats_Functions.ipynb** - Stats functions.
-5) **Preprocessing_Functions.ipynb** - Preprocessing Functions.
-6) **Data** - All project data.
+1) **Coal_Terminal_Maintenance.sql** - Analysis in MySQL.
+2) **Coal_Terminal_Maintenance_Dashboard.xlsx** - Dashboard in Microsoft Excel.
+3) **Cole_Data** - All project data.
