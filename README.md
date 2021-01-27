@@ -8,7 +8,7 @@ If anyone of the reclaimers average, over a seven-hour rolling window, 10% or hi
 
 ## Methods Used
 
-1) Data exploration, cleaning, and analysis.
+1) Data exploration, cleaning, and descriptive statistical analysis.
 
 ## Results 
 
