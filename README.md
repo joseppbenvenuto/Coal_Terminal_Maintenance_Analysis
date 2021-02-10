@@ -1,4 +1,4 @@
-# Coal_Terminal_Maintenance_Analysis
+# Coal Terminal Maintenance Analysis
 
 ## Project Description
 
