@@ -55,6 +55,8 @@ https://public.tableau.com/profile/josepp8009#!/vizhome/CoalMaintenance/Dashboar
 1) MySQL
 2) MySQL Workbench
 3) Microsoft Excel
+4) Tableau 
+5) Microsoft Power BI
 
 ## Directory Files
 
