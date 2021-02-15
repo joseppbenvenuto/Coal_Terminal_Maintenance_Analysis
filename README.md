@@ -43,7 +43,7 @@ If anyone of the reclaimers averaged, over a seven-hour rolling window, 10% or h
 
 **Microsoft Excel**:
 
-![](ReadMe_Images/Dash.png)
+![](ReadMe_Images/Dash1.png)
 
 **Tableau**:
 
