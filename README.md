@@ -39,9 +39,16 @@ If anyone of the reclaimers averaged, over a seven-hour rolling window, 10% or h
 * The SR6 reclaimer needs maintenance due to idle capacity exceeding the allowable threshold 23 times within September.
 * The SR6 reclaimer's idle capacity peaked at 13.04%.
 
-### Dashboard 
+### Dashboards
+
+**Microsoft Excel**:
 
 ![](ReadMe_Images/Dash.png)
+
+**Tableau**:
+
+![](ReadMe_Images/Dash2.png)
+https://public.tableau.com/profile/josepp8009#!/vizhome/CoalMaintenance/Dashboard1?publish=yes
 
 ## Technologies 
 
