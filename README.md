@@ -53,7 +53,7 @@ If anyone of the reclaimers averaged, over a seven-hour rolling window, 10% or h
 
 ![](ReadMe_Images/Dash3.png)
 
-**PLtly & Dash**:
+**Plotly & Dash**:
 
 ![](ReadMe_Images/Dash4.png)
 
