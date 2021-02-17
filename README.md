@@ -69,5 +69,8 @@ If anyone of the reclaimers averaged, over a seven-hour rolling window, 10% or h
 ## Directory Files
 
 1) **Coal_Terminal_Maintenance.sql** - Analysis in MySQL.
-2) **Coal_Terminal_Maintenance_Dashboard.xlsx** - Dashboard in Microsoft Excel.
-3) **Cole_Data** - All project data.
+2) **Coal_Terminal_Maintenance_Analysis_Dashboard_Excel.xlsx** - Microsoft Excel Dashboard.
+3) **Coal_Terminal_Maintenance_Analysis_Dashboard_Plotly_Dash.ipynb** - Plotly & Dash Dashboard.
+4) **Coal_Terminal_Maintenance_Analysis_Dashboard_Tableau.twbx** - Tableau Dashboard.
+5) **Coal_Terminal_Maintenance_Analysis_PowerBI.pbix** - Microsoft Power BI Dashboard.
+6) **Coal_Data** - Data Folder.
