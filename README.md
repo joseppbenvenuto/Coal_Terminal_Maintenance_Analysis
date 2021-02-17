@@ -65,6 +65,7 @@ If anyone of the reclaimers averaged, over a seven-hour rolling window, 10% or h
 4) Tableau 
 5) Microsoft Power BI
 6) Python
+7) Anaconda Environment
 
 ## Directory Files
 
