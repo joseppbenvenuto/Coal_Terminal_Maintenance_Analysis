@@ -54,6 +54,7 @@ If anyone of the reclaimers averaged, over a seven-hour rolling window, 10% or h
 ![](ReadMe_Images/Dash3.png)
 
 **Plotly & Dash**:
+* Deployed to Heroku here: https://coal-main-app.herokuapp.com/
 
 ![](ReadMe_Images/Dash4.png)
 
