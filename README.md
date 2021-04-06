@@ -46,7 +46,7 @@ If anyone of the reclaimers averaged, over a seven-hour rolling window, 10% or h
 ![](ReadMe_Images/Dash1.png)
 
 **Tableau**:
-* Deployed here: https://public.tableau.com/profile/josepp8009#!/vizhome/CoalMaintenance/Dashboard1
+* Deployed to Tableau Public here: https://public.tableau.com/profile/josepp8009#!/vizhome/CoalMaintenance/Dashboard1
 
 ![](ReadMe_Images/Dash2.png)
 
