@@ -46,8 +46,8 @@ If anyone of the reclaimers averaged, over a seven-hour rolling window, 10% or g
 ![](ReadMe_Images/Dash1.png)
 
 **Tableau**:
-* Deployed to Tableau Public here: https://public.tableau.com/profile/josepp8009#!/vizhome/CoalMaintenance/Dashboard1
 
+* Deployed to Tableau Public here: https://public.tableau.com/profile/josepp8009#!/vizhome/CoalMaintenance/Dashboard1
 ![](ReadMe_Images/Dash2.png)
 
 **Microsoft Power BI**:
@@ -55,8 +55,10 @@ If anyone of the reclaimers averaged, over a seven-hour rolling window, 10% or g
 ![](ReadMe_Images/Dash3.png)
 
 **Plotly & Dash**:
-* Deployed to Heroku here: https://coal-main-app.herokuapp.com/
 
+<p><strong>App User Name:</strong> data<br> <strong>App Password:</strong> analyst <br><strong>Note -</strong> the dashboard takes a few seconds to load<br></p>
+
+* Deployed to Heroku here: https://coal-main-app.herokuapp.com/
 ![](ReadMe_Images/Dash4.png)
 
 ## Technologies 
