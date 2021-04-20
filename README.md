@@ -4,7 +4,7 @@
 
 The analysis looked to analyze coal reclaimers' workloads in tonnes of coal moved during working hours to determine which reclaimers needed maintenance.
 
-If anyone of the reclaimers averaged, over a seven-hour rolling window, 10% or higher below the nominal tonnes of coal to be moved of 4,200, the reclaimer needed maintenance.
+If anyone of the reclaimers averaged, over a seven-hour rolling window, 10% or greater below the nominal tonnes of coal to be moved of 4,200, the reclaimer needed maintenance.
 
 ## Methods Used
 
