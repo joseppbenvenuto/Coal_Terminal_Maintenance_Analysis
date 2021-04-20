@@ -65,7 +65,7 @@ If anyone of the reclaimers averaged, over a seven-hour rolling window, 10% or g
 2) MySQL Workbench
 3) Microsoft Excel
 4) Tableau 
-5) Microsoft Power BI
+5) Microsoft PowerBI
 6) Python
 7) Anaconda Environment
 
